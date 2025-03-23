@@ -12,4 +12,4 @@ I have experience in statistics, data analysis and machine learning and have del
 
 I work primarily in the Python ecosystem, and have experience in MATLAB and SQL. I am currently working through the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) and learning how to incorporate Docker containers, infrastructure-as-code, and orchestration tools into my workflows.
 
-You can connect with me, or learn more about my experience, at [homepage (under development)](https://sjjerjian.github.io) or on [LinkedIn]
+You can connect with me, or learn more about my experience, at [homepage (under development)](https://sjjerjian.github.io) or on [LinkedIn](https://www.linkedin.com/in/stevenjerjian/)
